@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 /**
  * 
- *  Program to check equality of two lines Java equals method
+ * Program to check equality of two lines Java equals method
  *  
- * 	@author Shivaji Ghasti
+ * @auther Shivaji Ghasti	
  *
  */
 public class CheckEquality {
